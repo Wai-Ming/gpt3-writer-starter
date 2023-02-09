@@ -38,10 +38,10 @@ const Home = () => {
       <div className="container">
         <div className="header">
           <div className="header-title">
-            <h1>A recipe tailored to you</h1>
+            <h1>My next dish shopping bag</h1>
           </div>
           <div className="header-subtitle">
-            <h2>List your ingredients and get an awesome recipe tailored for what you have</h2>
+            <h2>List your ingredients and find out what you are missing to make your next awesome healthy dish.</h2>
           </div>
         </div>
         <div className='prompt-container'>
